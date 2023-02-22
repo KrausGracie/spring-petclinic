@@ -1,1 +1,9 @@
-
+![](firstBuild.png)
+![](UpdatedBadge.png)
+![](UpdatedBadgeBuild.png)
+![](commentedCoordsMaven.png)
+![](failedBuild.png)
+![](failedBadge.png)
+![](fixedCoords.png)
+![](fixedBuild.png)
+![](badge.png)
